@@ -6,10 +6,9 @@
    1. As a software engineer, these 5 principles are essential to know!
 
 2. Review this link as well for easy understanding
-3. 
-4.  ```bash 
-5. https://www.baeldung.com/solid-principles 
-6. ```
+  ```bash 
+     https://www.baeldung.com/solid-principles 
+ ```
 
 # README
 ## Clone the Github Repository

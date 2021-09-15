@@ -5,7 +5,11 @@
 * The intention of these principles is to make software designs more understandable, easier to maintain and easier to extend.
    1. As a software engineer, these 5 principles are essential to know!
 
-2. Review this link as well for easy understanding ```bash https://www.baeldung.com/solid-principles ```
+2. Review this link as well for easy understanding
+3. 
+4.  ```bash 
+5. https://www.baeldung.com/solid-principles 
+6. ```
 
 # README
 ## Clone the Github Repository
@@ -25,7 +29,7 @@ cd ../SOLID_Principle_Assignment
 2. L - Liskov Substitution Principle
 3. D - Dependency Inversion Principle
  
-# Also Written a blog about the chosen principles and explain your work on the Knoldus blogs:
+### Also Written a blog about the chosen principles and explain your work on the Knoldus blogs:
 
 ### You can prefer the " SOLID_Principle_Assignment .pptx" for blog.
 
